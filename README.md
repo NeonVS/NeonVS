@@ -7,9 +7,7 @@
 
 - 🔭 I’m currently working on **Devchassy Development Tool**
 
-- 🌱 I’m currently learning **Data structures and Algorithms in C++**
-
-- 📝 I regularly write articles on [https://devchassydocs.netlify.app/blog/](https://devchassydocs.netlify.app/blog/)
+- 🌱 I’m currently learning **Deep Learning**
 
 - 💬 Ask me about **Node JS, Flutter and React JS.**
 
