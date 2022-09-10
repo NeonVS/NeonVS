@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Deep Learning**
 
-- 💬 Ask me about **Node JS, Flutter and React JS.**
+- 💬 Ask me about **Node.js, Flutter and React.**
 
 - 📫 How to reach me **neonvs@protonmail.com**
 
