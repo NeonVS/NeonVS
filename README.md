@@ -1,5 +1,5 @@
 <h1 align="left">(ôヮô) Hey, nice to see you!</h1>
-<h3 align="left">I am Vishu Saxena, full stack developer from 🇮🇳 India. Some technologies I love working with include React, Node JS and Flutter.</h3>
+<h3 align="left">I am Vishu Saxena, full stack developer from 🇮🇳 India. Some technologies I love working with include React, Node.js and Flutter.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=neonvs&label=Profile%20views&color=0e75b6&style=flat&title=Stars,Followers" alt="neonvs" /> </p>
 
